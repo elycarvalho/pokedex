@@ -5,7 +5,7 @@
 }
 
 body{
-	background: #dfdfbb;
+	background: #c1dfbb;
 	background: linear-gradient(to right, #d4d3dd, #efefbb);
 	font-family: 'Lato', sans-serif;
 	display: flex;
@@ -16,6 +16,13 @@ body{
 }
 
 h1{
+	margin: 10px auto;
+	width: 80%;
+	background-color: #83dfb4;
+	border-radius: 20px;
+	font-size: 3.5rem;
+	font-weight: bold;
+	text-align: center;
 	letter-spacing: 3px;
 }
 
@@ -24,7 +31,7 @@ h1{
 	flex-wrap: wrap;
 	align-items: space-between;
 	justify-content: center;
-	margin: 0;
+	margin: 0 auto;
 	max-width: 1200px;
 }
 
