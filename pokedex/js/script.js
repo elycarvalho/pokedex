@@ -1,5 +1,5 @@
 const poke_container = document.getElementById('poke-container')
-const pokemon_count = 905
+const pokemon_count = 920
 const colors = {
 	fire: '#fddfdf',
 	grass: '#defde0',
